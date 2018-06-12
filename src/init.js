@@ -18,9 +18,9 @@ function success(message) {
   console.error(chalk.green(message));
 }
 
-function init({ demo, install }) {
-  const type = demo ? 'demo' : 'app';
-  const cwd = join(__dirname, '../boilerplates', type);
+function init({ install }) {
+
+  const cwd = join(__dirname, '../boilerplates/app');
   const dest = process.cwd();
   const projectName = basename(dest);
 

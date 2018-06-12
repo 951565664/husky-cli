@@ -1,6 +1,6 @@
-# dva-cli
-[![NPM version](https://img.shields.io/npm/v/dva-cli.svg?style=flat)](https://npmjs.org/package/dva-cli)
-[![NPM downloads](http://img.shields.io/npm/dm/dva-cli.svg?style=flat)](https://npmjs.org/package/dva-cli)
+# husky-cli
+[![NPM version](https://img.shields.io/npm/v/husky-cli.svg?style=flat)](https://npmjs.org/package/husky-cli)
+[![NPM downloads](http://img.shields.io/npm/dm/husky-cli.svg?style=flat)](https://npmjs.org/package/husky-cli)
 
 CLI for [dva](https://github.com/dvajs/dva) .
 
@@ -10,7 +10,7 @@ Install, create and start.
 
 ```bash
 # Install
-$ npm install dva-cli -g
+$ npm install husky-cli -g
 
 # Create app
 $ dva new myapp
@@ -84,7 +84,7 @@ $ dva g component Header --no-css
 
 ## Configuration
 
-dva-cli use [roadhog](https://github.com/sorrycc/roadhog) for build and server, view [roadhog#Configuration](https://github.com/sorrycc/roadhog/blob/master/README.md#configuration) ([中文版](https://github.com/sorrycc/roadhog/blob/master/README_zh-cn.md#配置)) for details.
+husky-cli use [roadhog](https://github.com/sorrycc/roadhog) for build and server, view [roadhog#Configuration](https://github.com/sorrycc/roadhog/blob/master/README.md#configuration) ([中文版](https://github.com/sorrycc/roadhog/blob/master/README_zh-cn.md#配置)) for details.
 
 ## License
 

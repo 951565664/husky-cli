@@ -9,5 +9,5 @@ publish: build
 	npm publish
 
 sync:
-	cnpm sync dva-cli
-	tnpm sync dva-cli
+	cnpm sync husky-cli
+	tnpm sync husky-cli
